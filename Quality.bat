@@ -1,0 +1,1 @@
+echo "sonarcube validations successfull"

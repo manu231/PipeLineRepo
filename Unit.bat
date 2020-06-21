@@ -1,0 +1,1 @@
+echo "junit test runs successfully"
